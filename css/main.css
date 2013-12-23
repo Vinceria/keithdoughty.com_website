@@ -1,0 +1,74 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #464646;;
+    font-size: 14px;
+    background-color: #ffffff;
+    padding-bottom: 0px;
+    padding-top: 90px;}
+
+.center{text-align: center;}
+
+h1{ font-size: 35px; font-weight: 300; color: #464646; margin-top: 30px; padding-bottom: 20px;}
+
+h2{ font-size: 18px; font-weight: 400; margin-bottom: 0px;}
+
+h3{ font-size: 15px; font-weight: 300; margin-bottom: 0px;}
+
+h4{ font-size: 28px; font-weight: 300; margin-bottom: 20px;}
+
+
+header{
+    background-color: #464646;
+    height: 90px;
+    color: #fff;}
+
+
+.copyright{}
+
+.style6 {
+    color: #555555;}
+
+
+.btns{
+    background-color: #99C842;
+    background-image: linear-gradient(#464646, #464646);
+    border-radius: 2px;
+    color: #888888;
+    padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;}
+a.btns{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #B2B8B3; font-weight: 400;}
+a.btns:hover{ text-decoration: none; color: #76c5da;}
+a.btns:visited{ text-decoration: none; color: #B2B8B3;}
+
+
+.main-splash-image{ border-top: 0px solid #c5c8cd; border-left: 0px solid #c5c8cd; border-right: 0px solid #c5c8cd; padding-bottom: 35px;}
+
+
+.mcp-logo{ padding-top:0px; font-size: 26px; padding-top: 0px; }
+.mcp-logo > ul{ list-style: none;}
+.mcp-logo > ul > li { display: inline; padding-left: 30px;}
+
+
+.splash-bar-grey{ background-color: #e7f4f7; text-decoration-color: #464646; padding-top: 50px; padding-bottom: 60px;}
+
+
+.main-logo{ padding-top:15px; font-size: 26px; padding-top: 15px;}
+
+.main-nav{padding-top: 30px;}
+.main-nav > ul{ list-style: none;}
+.main-nav > ul > li { display: inline; padding-left: 30px;}
+
+a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #B2B8B3; font-weight: 400;}
+a.main-nav-link:hover{ text-decoration: none; color: #76c5da;}
+a.main-nav-link:visited{ text-decoration: none; color: #B2B8B3;}
+
+
+footer{height: 70px; background-color: rgb(34, 34, 34); padding-top: 20px; margin-top: 70px; color:rgb(151, 151, 151);}
+
+.footer-nav{ list-style: none; margin-left: -25px;}
+.footer-nav > li { display: inline; padding-left: 30px;}
+.footer-heading{ margin-top:20px;font-weight: bold; color:rgb(112, 112, 112)}
+
+a.footer-nav-link:link{ text-decoration: none; color: rgb(151, 151, 151);  font-size: 14px;}
+a.footer-nav-link:hover{ text-decoration: none; color: #76c5da;}
+a.footer-nav-link:visited{ text-decoration: none; color: rgb(112, 112, 112);}
+
